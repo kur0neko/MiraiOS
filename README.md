@@ -1,3 +1,5 @@
+![alt text](pic/interface1.png)
+![alt text](pic/IMG_6592.jpeg)
 # Mirai OS build instruction
 #### FYI Pi-Gen had been modified to support a custom kernel for Raspberry Pi CM4+Clockwork Pi motherboard or U-console.
 #### Original Fork of Pi-Gen from Raspberry Pi: [Official Link](https://github.com/RPi-Distro/pi-gen), [Official Document about Kernel from Raspberry Pi](https://www.raspberrypi.com/documentation/computers/linux_kernel.html) 
@@ -11,3 +13,6 @@
 - Then, run .sh script on terminal under superuser privilege  by doing ``` sudo ./build.sh ```
 - Output of OS will be on deploy floder
 - FYI it is important to clean up every existing image before re-build a new one by doing  ``` sudo ./clean.sh ```
+![alt text](pic/A.png)
+![alt text](pic/E.png)
+![alt text](pic/F.png)
