@@ -8,7 +8,7 @@
 #### Original Fork from U-console CM4 OS-image: [Support Link](https://github.com/cuu/pi-gen/tree/uconsole_arm64)
 #### Information about custom Kernel for CM4+Clockwork Pi: [Support Link](https://github.com/cuu/ClockworkPi-linux/commit/9a1e3adc9d1431889f62e633ae791bfc9a6cf535), [Build Custom Kernel](https://github.com/clockworkpi/uConsole/tree/master/Code/patch/cm4/20230630)
 #### Old Kernel Official from U-console CM4 board provides driver for all hardware pheripherals on Clockwork Pi v3.14: [Download Link](https://github.com/clockworkpi/apt/blob/main/debian/pool/main/u/uconsole-kernel-cm4-rpi/uconsole-kernel-cm4-rpi_0.13_arm64.deb)
-#### Official Guideline on building official image from Clockwork Pi: [Support Link](https://github.com/clockworkpi/uConsole/wiki/How-uConsole-CM4-OS-image-made)
+#### Official Guideline on building OS image from Clockwork Pi: [Support Link](https://github.com/clockworkpi/uConsole/wiki/How-uConsole-CM4-OS-image-made)
 #
 1. Pi-Gen Dependencies, on CLI or Terminal (example of Ubuntu) 
 - ```sudo apt install -y coreutils quilt parted qemu-user-static debootstrap zerofree zip dosfstools libarchive-tools libcap2-bin grep rsync xz-utils file git curl bc qemu-utils kpartx gpg pigz ```
