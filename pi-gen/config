@@ -1,0 +1,10 @@
+IMG_NAME="MiraiOS-1.3-LastLight"
+RELEASE="bookworm"
+PI_GEN_RELEASE="MiraiOS-1.3-LastLight"
+DEPLOY_COMPRESSION="none"
+TARGET_HOSTNAME="Mirai_Prototype"
+FIRST_USER_NAME="pi"
+FIRST_USER_PASS="admin"
+ENABLE_SSH=0
+STAGE_LIST="stage0 stage1 stage2 stage3 stage4"
+

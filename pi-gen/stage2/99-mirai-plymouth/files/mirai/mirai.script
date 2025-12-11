@@ -1,0 +1,19 @@
+# Load image
+wallpaper_image = Image("mirai_splash.png");
+
+# Screen dimensions
+screen_width = Window.GetWidth();
+screen_height = Window.GetHeight();
+
+# Center image
+image_width = wallpaper_image.GetWidth();
+image_height = wallpaper_image.GetHeight();
+
+x = (screen_width - image_width) / 2;
+y = (screen_height - image_height) / 2;
+
+# Draw splash
+wallpaper = Texture(wallpaper_image);
+wallpaper.SetPosition(x, y);
+wallpaper.Draw();
+

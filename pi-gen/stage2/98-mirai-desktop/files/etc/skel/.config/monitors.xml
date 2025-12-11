@@ -1,0 +1,26 @@
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>DSI-1</connector>
+          <vendor>unknown</vendor>
+          <product>unknown</product>
+          <serial>unknown</serial>
+        </monitorspec>
+        <mode>
+          <width>1280</width>
+	  <height>720</height>
+          <rate>60.000</rate>
+        </mode>
+      </monitor>
+      <transform>
+        <rotation></rotation>
+      </transform>
+    </logicalmonitor>
+  </configuration>
+</monitors>
+

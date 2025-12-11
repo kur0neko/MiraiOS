@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=MiraiBoot
+Description=Mirai OS Boot Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/mirai
+ScriptFile=/usr/share/plymouth/themes/mirai/mirai.script
